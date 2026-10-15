@@ -1,0 +1,1 @@
+{"uuid":"1b2f06c5-5b05-4694-911b-292117a26f3f","name":"Запрос списка заказов возвращает массив orders","children":["3b6d4192-3986-4055-bb87-14f6664a51a3"],"befores":[{"name":"setUp","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1792079396190,"stop":1792079396190}],"afters":[],"start":1792079396187,"stop":1792079415427}
